@@ -1,0 +1,116 @@
+---
+object: card
+id: 4460973c-190e-4ab2-9be2-8c64e5380505
+oracle_id: 42a96276-fddc-435e-bd47-04f9c6001ec7
+multiverse_ids:
+- 373393
+mtgo_id: 50007
+mtgo_foil_id: 50008
+tcgplayer_id: 71069
+cardmarket_id: 263765
+name: Skarrgan Firebird
+lang: en
+released_at: '2013-09-06'
+uri: https://api.scryfall.com/cards/4460973c-190e-4ab2-9be2-8c64e5380505
+scryfall_uri: https://scryfall.com/card/ddl/57/skarrgan-firebird?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.jpg?1592752177
+  normal: https://cards.scryfall.io/normal/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.jpg?1592752177
+  large: https://cards.scryfall.io/large/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.jpg?1592752177
+  png: https://cards.scryfall.io/png/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.png?1592752177
+  art_crop: https://cards.scryfall.io/art_crop/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.jpg?1592752177
+  border_crop: https://cards.scryfall.io/border_crop/front/4/4/4460973c-190e-4ab2-9be2-8c64e5380505.jpg?1592752177
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Creature — Phoenix
+oracle_text: |-
+  Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+  Flying
+  {R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn.
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+- Bloodthirst
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7dfc5406-c4cf-479d-b005-11e578752dc9
+set: ddl
+set_name: 'Duel Decks: Heroes vs. Monsters'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/7dfc5406-c4cf-479d-b005-11e578752dc9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4460973c-190e-4ab2-9be2-8c64e5380505/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A42a96276-fddc-435e-bd47-04f9c6001ec7&unique=prints
+collector_number: '57'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 232665a5-cc5d-49a4-abd2-eb37074ec3fb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11795
+penny_rank: 14183
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.18'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373393
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skarrgan+Firebird&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skarrgan+Firebird&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skarrgan+Firebird
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71069?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skarrgan+Firebird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50007?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

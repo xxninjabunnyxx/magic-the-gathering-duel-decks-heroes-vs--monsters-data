@@ -1,0 +1,18 @@
+---
+object: set
+id: 7dfc5406-c4cf-479d-b005-11e578752dc9
+code: ddl
+mtgo_code: ddl
+arena_code: ddl
+tcgplayer_id: 1145
+name: 'Duel Decks: Heroes vs. Monsters'
+uri: https://api.scryfall.com/sets/7dfc5406-c4cf-479d-b005-11e578752dc9
+scryfall_uri: https://scryfall.com/sets/ddl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addl&unique=prints
+released_at: '2013-09-06'
+set_type: duel_deck
+card_count: 81
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddl.svg?1694404800
